@@ -15,7 +15,7 @@ public class ArrayShiftToNth {
             for (int i = 0; i < arr.length - 1; i++) {
 
                 arr[i] = arr[i + 1];
-                System.out.println(arr[i] + " ");
+                //System.out.println(arr[i] + " ");
             }
             arr[arr.length - 1] = temp;
         }

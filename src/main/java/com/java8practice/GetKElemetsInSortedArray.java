@@ -3,6 +3,7 @@ package com.java8practice;
 import java.util.ArrayList;
 import java.util.List;
 
+//this program fetches K nearest element to x
 public class GetKElemetsInSortedArray {
 
     public static void main(String[] args) {

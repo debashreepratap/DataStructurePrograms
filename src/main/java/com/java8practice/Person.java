@@ -12,6 +12,7 @@ import java.util.Objects;
 public class Person {
      int age;
      String name;
+     String gender;
 
      @Override
      public boolean equals(Object o) {

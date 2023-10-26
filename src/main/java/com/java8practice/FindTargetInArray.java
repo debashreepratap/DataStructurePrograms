@@ -8,7 +8,7 @@ public class FindTargetInArray {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter size of the array: ");
         int x = sc.nextInt();
-        System.out.println("enter targetted number: ");
+        System.out.println("enter targeted number: ");
         int n = sc.nextInt();
         int[] intArr = new int[x];
         System.out.println("enter "+x+" numbers to the array: ");
